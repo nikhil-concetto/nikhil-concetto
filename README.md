@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+<img align="center" src ="https://github-readme-stats.vercel.app/api?username=nikhil-concetto&&show_icons=true&title_color=212121&icon_color=757575&text_color=424242&bg_color=ffffff"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-concetto&theme=light"/>
+<br/>
+
 <!--
 **nikhil-concetto/nikhil-concetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
